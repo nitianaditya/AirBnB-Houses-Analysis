@@ -1,0 +1,2 @@
+# AirBnB-Houses-Analysis
+This project involves leveraging the data visualization capabilities of Tableau to analyze and interpret trends, patterns, and insights related to AirBnB housing data. It is done by creating interactive and visually appealing dashboards, that aims to provide valuable information about property prices, occupancy rates and other many key factors that influence the AirBnB housing market.
